@@ -25,3 +25,20 @@ header h1 {
     font-size: 2.5em;
     color: #0077cc;
 }
+    section {
+    margin: 20px 0;
+}
+
+h2 {
+    color: #0077cc;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 5px;
+}
