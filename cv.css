@@ -4,4 +4,12 @@ body {
     color: #333;
     margin: 0;
     padding: 20px;
+
+}
+.cv-container {
+    max-width: 800px;
+    margin: auto;
+    background: #fff;
+    padding: 30px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
